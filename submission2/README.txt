@@ -5,13 +5,13 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Paper title:
-NLP using ANN
+Automatic Hate Speech Detection Using CNN Model and Word Embedding
 
 Link to the paper:
 https://ieeexplore......
 
 Group Number:
-0
+03
 
 Individual Submitter:
-12345678 Name A
+19201105 SADIA AFREEN
